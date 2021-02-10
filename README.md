@@ -12,6 +12,7 @@ This is a sample Flash Light app built with React Native for purposes of learnin
     </td>
   </tr>
 </table>
+
 ## Application that need to run the project
 - Android Studio
 - Command Prompt
