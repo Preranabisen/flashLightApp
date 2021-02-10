@@ -7,8 +7,8 @@ This is a sample Flash Light app built with React Native for purposes of learnin
    <th>FlashLight ON</th>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/61933510/107469683-3430ad00-6b90-11eb-84c0-c03ea5735d4f.png" width="450" height="900"></td>
-    <td><img src="https://user-images.githubusercontent.com/61933510/107469692-37c43400-6b90-11eb-8719-4ae2abddd76c.png" width="450" height="900">
+    <td><img src="https://user-images.githubusercontent.com/61933510/107469683-3430ad00-6b90-11eb-84c0-c03ea5735d4f.png" width="430" height="850"></td>
+    <td><img src="https://user-images.githubusercontent.com/61933510/107469692-37c43400-6b90-11eb-8719-4ae2abddd76c.png" width="430" height="850">
     </td>
   </tr>
 </table>
